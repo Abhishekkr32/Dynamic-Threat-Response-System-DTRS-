@@ -11,5 +11,5 @@ DTRS is a security tool that detects and responds to threats in real time by mon
 ## Installation
 1. Clone the repository:
    git clone https://github.com/Abhishekkr32/Dynamic-Threat-Response-System-DTRS-.git
-   cd dtrs
+   cd dtrs1.py
    
