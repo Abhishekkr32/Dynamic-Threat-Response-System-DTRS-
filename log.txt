@@ -1,0 +1,27 @@
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 10364)
+🔴 Threat Terminated: malware.exe (PID: 14916)
+📧 Email alert sent for malware.exe
+📧 Email alert sent for malware.exe
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 2644)
+🔴 Threat Terminated: malware.exe (PID: 7016)
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 1832)
+🔴 Threat Terminated: malware.exe (PID: 2740)
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 17312)
+🔴 Threat Terminated: malware.exe (PID: 17856)
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 7584)
+🔴 Threat Terminated: malware.exe (PID: 10316)
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 18412)
+🔴 Threat Terminated: malware.exe (PID: 18484)
+📧 Email alert sent for malware.exe
+📧 Email alert sent for malware.exe
+🔍 Scanning started...
+🔴 Threat Terminated: malware.exe (PID: 8628)
+🔴 Threat Terminated: malware.exe (PID: 8760)
+📧 Email alert sent for malware.exe
+📧 Email alert sent for malware.exe
