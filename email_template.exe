@@ -1,0 +1,11 @@
+Threat Detected!
+
+A malicious process has been detected and terminated.
+
+Process Name: {process_name}
+Process ID: {process_id}
+
+Action Taken: Terminated immediately.
+
+Stay Alert,
+Dynamic Threat Response System
