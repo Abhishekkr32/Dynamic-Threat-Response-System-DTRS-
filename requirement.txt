@@ -1,0 +1,7 @@
+psutil
+tkinter
+smtplib
+plyer
+pyttsx3
+threading
+time
